@@ -1,0 +1,10 @@
+Start the program.
+1. Get a tempurature via user input.
+2. Store this information.
+3. If the temperature is above 134.1 or below -128.6, then show error message and go back to step 1.
+4. If the temperature is above 60, then show a display showing that the user inputted Summer weather.
+Otherwise, display showing that the user inputted Winter weather.
+5. Add 1 to the program's run count.
+6. Prompt the reader to try and go for the opposite weather type.
+7. If the program's run count is 2, then end the program.
+Otherwise, go back to step 1.
